@@ -5,4 +5,4 @@ My Profile: https://globalgamejam.org/users/chi-huu-huynh
 
 The Game: https://globalgamejam.org/2021/games/target-finder-2
 
-![Picture of the commits Chi made](https://github.com/HuuChiHuynh/GGJ2021/blob/master/commits.PNG?raw=true)
+![Picture of the commits Chi made](https://github.com/HuuChiHuynh/GGJ2021/blob/main/commits.PNG?raw=true)
