@@ -1,0 +1,17 @@
+sprite sheet info
+
+people 
+
+box width = 90 px
+box height = 150 px
+
+
+people death 
+
+box width = 150
+box height = 150
+
+ui boxes
+
+width = 240px
+height = 85px
